@@ -58,3 +58,39 @@ a {
     width: auto;
     height: auto;
 }
+.cookie-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.cookie-popup p {
+    margin: 0;
+}
+
+.cookie-popup a {
+    color: #0053ac;
+    text-decoration: underline;
+}
+
+.cookie-popup button {
+    background-color: #007bff;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.cookie-popup button:hover {
+    background-color: #0053ac;
+}

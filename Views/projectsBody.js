@@ -10,6 +10,5 @@ async function loadProjects(language){
                 html += "</div>"
                 return html
             })
-    console.log(html);
     return html;
 }

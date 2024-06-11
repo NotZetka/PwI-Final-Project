@@ -70,5 +70,10 @@
     },
     "projects":{
         "language":"pl"
+    },
+    "cookies":{
+        "accept":"Akceptuję",
+        "message":"Używamy plików cookie by zapewnić Ci najlepsze doświadczenie podczas korzystanai ze strony"
     }
+
 }
