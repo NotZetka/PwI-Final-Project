@@ -13,6 +13,7 @@ class Project{
         <br></br>
         <img src = ${this.image} class="centered-image"
             onerror="this.onerror=null; this.src='./images/notfound.jpg';"></img>
+        <br></br>
         
         `
     }
