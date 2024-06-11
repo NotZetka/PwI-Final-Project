@@ -1,0 +1,26 @@
+[
+    {
+        "title":"LeetCode",
+        "description":"Zadania algorytmiczne na platformie LeetCode",
+        "image":"./images/leetcode.png",
+        "link":"https://github.com/NotZetka/LeetCode"
+    },
+    {
+        "title":"Mediporta zadanie rekrutacyjne",
+        "description":"Użyte technologie: <br>- .NET 8 <br>- ASP.NET <br>- EntityFramework Core <br>-MSSQL <br>- Docker <br>- Swagger <br>- XUnit",
+        "image":"./images/Mediporta.png",
+        "link":"https://github.com/NotZetka/Mediporta-Recruitment-Task"
+    },
+    {
+        "title":"Kampus SGGW",
+        "description":"Aplikacja kampusu uczelni SGGW, w tworzeniu której brałęm udział w ramach koła naukowego Silver.NET napisana we Flutterze dostepna na Android i Ios",
+        "image":"./images/Kampus.png",
+        "link":"https://github.com/NotZetka/Shop"
+    },
+    {
+        "title":"WZIMopolly",
+        "description":"Projekt grupowy gra typu monopolly stylizowana na wydział WZIM",
+        "image":"./images/Wzimopolly.png",
+        "link":"https://github.com/Rivixer/WZIMopoly"
+    }
+]

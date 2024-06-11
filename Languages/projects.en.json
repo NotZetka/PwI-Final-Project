@@ -1,0 +1,26 @@
+[
+    {
+        "title": "LeetCode",
+        "description": "Algorithmic tasks on the LeetCode platform",
+        "image": "./images/leetcode.png",
+        "link": "https://github.com/NotZetka/LeetCode"
+    },
+    {
+        "title": "Mediporta Recruitment Task",
+        "description": "Technologies used: <br>- .NET 8 <br>- ASP.NET <br>- EntityFramework Core <br>- MSSQL <br>- Docker <br>- Swagger <br>- XUnit",
+        "image": "./images/Mediporta.png",
+        "link": "https://github.com/NotZetka/Mediporta-Recruitment-Task"
+    },
+    {
+        "title": "SGGW Campus",
+        "description": "An application for the SGGW university campus, which I participated in developing as part of the Silver.NET student club, written in Flutter and available on Android and iOS",
+        "image": "./images/Kampus.png",
+        "link": "https://github.com/NotZetka/Shop"
+    },
+    {
+        "title": "WZIMopolly",
+        "description": "Group project, a Monopoly-style game themed on the WZIM faculty",
+        "image": "./images/Wzimopolly.png",
+        "link": "https://github.com/Rivixer/WZIMopoly"
+    }
+]

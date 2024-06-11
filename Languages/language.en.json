@@ -1,0 +1,76 @@
+{
+    "navBar": {
+        "polish": "Polish",
+        "english": "English",
+        "language": "Language",
+        "projects": "Projects"
+    },
+    "cv": {
+        "profile": {
+            "body": "I am a .NET developer with over a year of experience in the banking sector and a computer science student. I have practical knowledge and am looking for new challenges that will help me expand it and develop professionally.",
+            "title": "Profile"
+        },
+        "experience": {
+            "title": "Professional Experience",
+            "company": "SDC Poland",
+            "period": "01.2023 – 03.2024",
+            "description": "My first job as a developer, where I was responsible for developing and maintaining the NeOS transaction platform used by banks in 5 Scandinavian markets.",
+            "tasks": [
+                "Worked on creating REST APIs in ASP.NET",
+                "Worked with EntityFramework Core and SQL",
+                "Used Azure ServiceBus",
+                "Created unit tests using xUnit",
+                "Manually tested using Postman",
+                "Worked using Scrum methodology",
+                "Used Azure Devops",
+                "Worked in an international team"
+            ]
+        },
+        "education": {
+            "title": "Education",
+            "institution": "Warsaw University of Life Sciences",
+            "period": "10.2021 – present",
+            "details": "Field of study: Computer Science<br>Student scientific club Silver.NET"
+        },
+        "certificates": {
+            "title": "Certificates",
+            "list": [
+                "Microsoft AZ-204 Azure Developer Associate",
+                "Microsoft AZ-900 Azure Fundamentals",
+                "Microsoft SC-900 Security, Compliance and Identity Fundamentals"
+            ]
+        },
+        "skills": {
+            "title": "Skills",
+            "list": [
+                ".NET",
+                "Azure",
+                "ASP.NET",
+                "EntityFramework Core",
+                "SQL",
+                "Git",
+                "Linq",
+                "Postman",
+                "xUnit",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        "languages": {
+            "title": "Languages",
+            "polish": "Polish - native",
+            "english": "English - C1"
+        },
+        "websites": {
+            "title": "Links",
+            "list": [
+                "github.com/NotZetka",
+                "linkedin.com/in/jakub-kochański"
+            ]
+        }
+    },
+    "projects": {
+        "language":"en"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "navBar":{
+        "polish":"Polski",
+        "english":"Angielski",
+        "language":"Język",
+        "projects":"Projekty"
+    },
+    "cv":{
+        "profile": {
+            "body" :"Jestem programistą .NET z ponad rocznym doświadczeniem w sektorze bankowym, oraz studentem informatyki. Posiadam praktyczną wiedzę, poszukuje nowych wyzwań które pomogą mi ją poszerzać i rozwijać się zawodowo.",
+            "title": "Profil"
+        },
+        "experience": {
+            "title":"Doswadczenie zawodowe",
+            "company": "SDC Poland",
+            "period": "01.2023 – 03.2024",
+            "description": "Moja pierwsza praca jak programista, w której zajmowałem się rozwojem i utrzymaniem platformy transakcyjnej NeOS używanej przez banki na 5 rynkach skandynawskich.",
+            "tasks": [
+                "Pracowałem przy tworzeniu REST API w ASP.NET",
+                "Pracowałem z EntityFramework Core oraz SQL",
+                "Korzystałem z Azure ServiceBus",
+                "Tworzyłem testy jednostkowe za pomocą xUnit",
+                "Testowałem manualnie za pomocą postmana",
+                "Pracowałem metodą Scrum",
+                "Wykorzystałem Azure Devops",
+                "Pracowałem w międzynarodowym zespole"
+            ]
+        },
+        "education": {
+            "title":"Wykształcenie",
+            "institution": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+            "period": "10.2021 – obecnie",
+            "details": "Kierunek: Informatyka<br>Studenckie koło naukowe Silver.NET"
+        },
+        "certificates": {
+            "title":"Certyfikaty",
+            "list":[
+                "Microsoft AZ-204 Azure Developer Associate",
+                "Microsoft AZ-900 Azure Fundamentals",
+                "Microsoft SC-900 Security, Compliance and Identity Fundamentals"
+            ]
+        },
+        "skills": {
+            "title":"Umiejetności",
+            "list":[
+            ".NET",
+            "Azure",
+            "ASP.NET",
+            "Entityframework Core",
+            "SQL",
+            "Git",
+            "Linq",
+            "Postman",
+            "XUnit",
+            "JavaScript",
+            "Html",
+            "Css"
+        ]},
+        "languages": {
+            "title": "Języki",
+            "polish": "Polski - ojczysty",
+            "english": "Angielski - C1"
+        },
+        "websites": {
+            "title":"Linki",
+            "list":[
+            "github.com/NotZetka",
+            "linkedin.com/in/jakub-kochański"
+        ]}
+    },
+    "projects":{
+        "language":"pl"
+    }
+}
